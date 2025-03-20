@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cisooszr
-- 👀 I’m interested in React.
+- 👀 I’m a Software Quality Assurance Tester.
 - 📫 cisemsezer17@gmail.com
 
 <!---
